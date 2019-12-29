@@ -1,4 +1,4 @@
-# Hack One Official Rules
+# China Hack Official Rules 创世神黑客松规则
 
 ## Important: 
 Please read these Official Rules before entering this Contest (the “Contest”).
@@ -7,18 +7,18 @@ Eligibility: The Contest is open only to individuals that meet each of the follo
 Are at least 18 years old (or the age of majority in entrant’s jurisdiction of residence, whichever is older) at the time of entry;
 Are not a legal resident of any country currently under sanction by the OFAC, including: Balkans, Belarus, Burma, Cote d’Ivoire, Cuba, DR of the Congo, Iran, Iraq, Liberia (the former regime of Charles Taylor), Lebanon, Libya, North Korea, Somalia, Sudan, Syria, Yemen, and Zimbabwe (note that the list of sanctioned countries can change at any time, however, a current list can always be located at http://www.treas.gov/offices/enforcement/ofac/programs);
 Directors, officers, members, managers, and employees of NEAR Inc (“Sponsor”), and any of their respective parent companies, affiliate companies, subsidiaries, agents, professional advisors, advertising, promotional, public relations, and fulfillment agencies, consultants, legal counsel, website providers, webmasters, and immediate family members (spouse, parent, child, sibling, grandparent, and “step” child, wherever they may live) of each are not eligible to win any prize.
- IF YOU DO NOT MEET ANY OF THESE REQUIREMENTS, OR ANY OTHER ELIGIBILITY REQUIREMENTS IN THESE OFFICIAL RULES, YOU ARE NOT ELIGIBLE TO WIN A PRIZE. To be eligible to win a prize, entries must be completed and received by Sponsor in the manner and format designated below.
+IF YOU DO NOT MEET ANY OF THESE REQUIREMENTS, OR ANY OTHER ELIGIBILITY REQUIREMENTS IN THESE OFFICIAL RULES, YOU ARE NOT ELIGIBLE TO WIN A PRIZE. To be eligible to win a prize, entries must be completed and received by Sponsor in the manner and format designated below.
 
 
 ## Contest Period: 
-The Contest starts at 6:00:00 p.m. Pacific Time (PT) on April 27, 2019 and ends at 6:00:00 p.m. (PT) on May 11, 2018 after all Presentations (defined below) are complete (the “Contest Period”). All entries must be received during the Contest Period and meet other requirements in these Official Rules to be eligible to win a prize. Sponsor’s or its designee’s computer is the official time-keeping device for the Contest.
+The Contest starts at 12:00:00 p.m. China Time (GMT+8) on Dec 30th, 2019 and ends at 11:59:00 p.m. (PT) on Jan 7th, 2020 after all Presentations (defined below) are complete (the “Contest Period”). All entries must be received during the Contest Period and meet other requirements in these Official Rules to be eligible to win a prize. Sponsor’s or its designee’s computer is the official time-keeping device for the Contest.
 
 
 ## How to Enter:
 To enter, complete the following steps during the Contest Period:
- Step 1 (Registration): Before 11:59:59 p.m. (PT) on April 28, 2019, visit nearprotocol.com/hackathon, and complete the registration process, which requires your agreement to these Official Rules and other documents requested by Sponsor.
- Step 2 (Coding): Between the period of 12:00:00 a.m. (PT) on April 29, 2019 and 6:00:00 p.m. (PT) on May 11, 2019, work to create an idea (website, software application and business use case) that utilizes the NEAR protocol libraries and/or platform. Before 6:00:00 p.m. (PT) on May 11, 2019, submit the source code (your “Code”) for your idea to Sponsor by submitting your Code to the NEAR GitHub repository as instructed by Sponsor or its designee. Code submitted in this way is your “Submission.”
- Step 3 (Submission): Submissions received by postal mail, facsimile or other means not expressly permitted in these Official Rules will not be considered. All Submissions must comply with the requirements of the entry instructions and be in the English language.
+ Step 1 (Registration): Before 11:59:59 p.m. (GMT+8) on Jan 7th, 2020, visit nearprotocol.com/china-hack, and complete the registration process, which requires your agreement to these Official Rules and other documents requested by Sponsor.
+ Step 2 (Coding): Between the period of 12:00:00 p.m. (GMT+8) on Dec 30th, 2019 and 11:59:59 p.m. (GMT+8) on Jan 7th, 2020, work to create an idea (website, software application and business use case) that utilizes the NEAR protocol libraries and/or platform. Before 11:59:59 p.m. (GMT+8) on Jan 7th, 2020, submit the source code (your “Code”) for your idea to Sponsor by submitting your Code to the NEAR GitHub repository as instructed by Sponsor or its designee. Code submitted in this way is your “Submission.”
+ Step 3 (Submission): Submissions received by postal mail, facsimile or other means not expressly permitted in these Official Rules will not be considered. All Submissions must comply with the requirements of the entry instructions and be in either English language or Chinese language.
  Eligible participants may enter as one of the following categories of participants:
 Individual: When entering as an individual, only the single individual is participating in the Contest. The individual must complete the entry process as instructed in these Official Rules.
 Team: Teams must consist of between two (2) to six (6) individuals (your “Team’). A single individual who is the representative of a team must be appointed by the team as the team leader (“Team Leader”). The Code must be submitted only by the Team Leader. All members of the Team must participate in the submission to the GitHub repository to be eligible for a prize. If a Team is selected as a potential winner, each individual member of the Team may be required to sign the Declaration of Eligibility and Liability/Publicity Release required by Sponsor (or Sponsor’s designee or affiliate) in order to be eligible to potentially win a prize. Corporate and other business entities are not eligible to participate. You may be asked to provide permission of your employer in order to participate.
@@ -44,7 +44,7 @@ As described above in Section 3, all Submissions must be submitted by the indivi
 
 
 ## Selection and Notification of Winner:
- Beginning on or about 1:00:00 p.m. (PT) on May 11, 2019, the Judges will evaluate and score each eligible Submission (the Code and the Presentation), in their discretion, as follows:
+ Beginning on or about 1:00:00 p.m. (GMT+8) on Jan 8, 2020, the Judges will evaluate and score each eligible Submission (the Code and the Presentation), in their discretion, as follows:
 Best Submission: A panel of Judges will evaluate and score each eligible Submission based on the Judging Criteria (defined below) and select
  (i) the Best Overall Submission;
  (ii) Runner-Up Best Overall Submission;
@@ -59,19 +59,18 @@ Secret Prizes: A panel of Judges will evaluate and score each eligible Submissio
 * Likelihood that Submission will perform in a high-quality manner (25%).
 
  In the unlikely event of a tie, the relevant winning Submission will be determined by the Judges based on highest score in the following category: Creativity and originality of the Submission. Odds of winning a prize depend on number and quality of Submissions received.
- At or about 6:00:00 p.m. (PT) on May 11, 2019, the potential winners will be announced at https://nearprotocol.com/hackathon. To claim the prize, each potential winner must follow the instructions given by Sponsor after the announcement is made. To the fullest extent permitted by applicable law, Sponsor may require each potential winner to sign and return, five business days, an Affidavit of Eligibility and Liability/Publicity Release in order to claim his/her prize. If (i) potential winner does not respond to the announcement attempt within five business days, (ii) any required documents are not returned within seven days, such as the Affidavit of Eligibility and Liability/Publicity Release; or (iii) if potential winner is otherwise unable to accept the prize as stated, the prize will be forfeited and will be awarded to an alternate winner in accordance with the Judging Criteria. Only three alternate winners will be selected for each prize. If, by reason of a print or other error, more prizes are claimed than the number set forth in these Official Rules, the prize(s) will be awarded to the person with the highest scoring Submission in accordance with the above Judging Criteria from among all eligible claimants making purportedly valid claims to award the prizes available.
+ At or about 12:00:00 a.m. (GMT+8) on Jan 9th, 2020, the potential winners will be announced at https://nearprotocol.com/china-hack or at “NEAR中文社区” Wechat Official Group. To claim the prize, each potential winner must follow the instructions given by Sponsor after the announcement is made. To the fullest extent permitted by applicable law, Sponsor may require each potential winner to sign and return, five business days, an Affidavit of Eligibility and Liability/Publicity Release in order to claim his/her prize. If (i) potential winner does not respond to the announcement attempt within five business days, (ii) any required documents are not returned within seven days, such as the Affidavit of Eligibility and Liability/Publicity Release; or (iii) if potential winner is otherwise unable to accept the prize as stated, the prize will be forfeited and will be awarded to an alternate winner in accordance with the Judging Criteria. Only three alternate winners will be selected for each prize. If, by reason of a print or other error, more prizes are claimed than the number set forth in these Official Rules, the prize(s) will be awarded to the person with the highest scoring Submission in accordance with the above Judging Criteria from among all eligible claimants making purportedly valid claims to award the prizes available.
 
  Verification of Potential Winner: EACH POTENTIAL WINNER IS SUBJECT TO VERIFICATION BY SPONSOR, WHOSE DECISIONS ARE FINAL AND BINDING IN ALL MATTERS RELATED TO THE CONTEST. AN ENTRANT IS NOT A PRIZE WINNER UNLESS AND UNTIL ENTRANT’S ELIGIBILITY HAS BEEN VERIFIED AND ENTRANT HAS BEEN NOTIFIED THAT VERIFICATION IS COMPLETE AND NO FURTHER ACTION IS NEEDED.
 
 
 ## Prize: 
 The prizes will be awarded as follows:
- a. Best Overall Submission: One winner will receive $2500 in USD and $2500 worth of tokens on the future MainNet pending MainNet launch.
- b. Runner-Up Best Overall Submission: One winner will receive $1500 USD and $1500 worth of tokens on the future MainNet pending MainNet launch.
- c. Third-Place Best Overall Submission: One winner will receive $500 in USD and $500 tokens on future MainNet pending MainNet launch.
- d. Secret Prizes: One or more winner will receive no more than $500 in USD or tokens on the network at the discretion of the Sponsor and Judges.
- Total value of all prizes combined: $10,000.
- Prize Restrictions: ALL FEDERAL, STATE AND LOCAL TAXES ASSOCIATED WITH THE RECEIPT OR USE OF ANY PRIZE ARE THE SOLE RESPONSIBILITY OF THE WINNER. Prizes are not transferable. No substitutions or exchanges of any prize (including for cash) will be permitted, except that Sponsor reserves the right to substitute a prize of comparable or greater value for any prize. Sponsor will not replace any lost or stolen prizes or prize components. Only the number of prizes stated in these Official Rules are available to be won in the Contest.
+ a. Best Overall Submission: One winner will receive ¥2000 RMB and 5000 NEAR tokens on the future MainNet pending MainNet launch.
+ b. Runner-Up Best Overall Submission: One winner will receive ¥1000 RMB and 3000 NEAR tokens on the future MainNet pending MainNet launch.
+ c. Third-Place Best Overall Submission: One winner will receive ¥500 RMB and 1000 NEAR tokens on future MainNet pending MainNet launch.
+ 
+ Prize Restrictions: ALL APPLICABLE TAXES ASSOCIATED WITH THE RECEIPT OR USE OF ANY PRIZE ARE THE SOLE RESPONSIBILITY OF THE WINNER. Prizes are not transferable. No substitutions or exchanges of any prize (including for cash) will be permitted, except that Sponsor reserves the right to substitute a prize of comparable or greater value for any prize. Sponsor will not replace any lost or stolen prizes or prize components. Only the number of prizes stated in these Official Rules are available to be won in the Contest.
  Except for applicable manufacturer’s standard warranties, the prize is awarded “AS IS” and WITHOUT WARRANTY OF ANY KIND, express or implied (including any implied warranty of merchantability or fitness for a particular purpose).
 
 
@@ -97,7 +96,7 @@ By entering the Contest, you represent and warrant that you either own all of yo
 See Sponsor’s Privacy Policy at https://near.ai/privacy-policy/.
 
 ## Winner List and Rules Request: 
-For a copy of the winner list, send an email to peter@nearprotocol.com for arrival after May 11, 2018 and before April 27, 2020 with the email subject line: 2019 NEAR Protocol Hackathon - Winner List Request. To obtain a copy of these Official Rules, visit https://nearprotocol.com or email peter@nearprotocol.com before August 26, 2019 with the email subject line: 2019 NEAR Protocol Hackathon Contest - Official Rules Request.
+For a copy of the winner list, send an email to peter@nearprotocol.com for arrival after Jan 9th, 2020 and before Jan 8th, 2022 with the email subject line: 2020 NEAR Protocol China Hackathon - Winner List Request. To obtain a copy of these Official Rules, visit https://nearprotocol.com or email peter@nearprotocol.com before Jan 8th, 2022 with the email subject line: 2019 NEAR Protocol Hackathon Contest - Official Rules Request.
 
 ## Intellectual Property Notice: 
 The Contest and all accompanying materials are copyright © 2019 by NEAR Inc All rights reserved.
